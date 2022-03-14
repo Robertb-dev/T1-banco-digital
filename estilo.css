@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'bebas_neueregular';
+    src: url('fonts/bebasneue-regular-webfont.woff2') format('woff2'),
+         url('fonts/bebasneue-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+
+h1, h2, h3, h4, h5{
+	font-family: 'bebas_neueregular';
+
+}
+
+
+p{
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: 700;
+
+}
+
+/*CSS da página principal e outras tags universais*/
+#home {
+	background: #ffc107;
+	color: white;
+
+}
+
+#nav-principal{
+	font-family: 'bebas_neueregular';
+font-weight: 800;
+color: black;
+font-size: 20px;
+}
+
+.caixa{
+	margin-top: 50px;
+
+}
+
+.lista{
+	list-style:none;
+	color: black;
+}
+
+
+
+.rodapé{
+	margin-top: 20px;
+	padding-bottom: 80px;
+	background: #ffc107;
+	font-size: 120%; 
+	font-weight: 500;
+	
+}
+/*Fim do CSS da página homeheight: 300px ;*/
+
+/*CSS da página ot1*/
+.ot1{
+	margin-top: 50px;
+
+}
+.ot1frase{
+	width: 600px;
+}
+/*Fim do CSS da página ot1*/
+
+
+
+/*CSS da página cadastro*/
+#cadastro{
+	background-color: #151515;/*Este cinza medio ou #c0c0c0 que é prata*/
+}
+#formulario2{
+	background: #ffc107;
+	height:558px;
+
+}
+
+.img-cadastro{
+ margin-top: 40px;
+}
+
+.tituloformulario{
+	margin-top: 40px;
+	margin-bottom: 30px;
+	text-align: center;
+
+}
+/*Fim do CSS da página cadastro*/
+
+
+
+
+/*CSS da página Entrar*/
+#formulario{
+	background: #ffc107;
+	height:400px;
+
+
+}
+/*Fim do CSS da página Entrar*/
