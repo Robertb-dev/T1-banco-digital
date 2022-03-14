@@ -1,2 +1,2 @@
-# T1-gestao-financeira
-Site fictício experimental para uma empresa de gestão financeira, o objetivo é praticar programação.
+# T1-banco-digital
+Site fictício experimental para um banco digital, o objetivo é praticar programação.
